@@ -53,6 +53,8 @@ This project performs time-series analysis and forecasting on major tech company
 ```bash
 pip install -r requirements.txt
 
+---
+
 ## 👩‍💻 Author
 
 **Wajeeha Sajid**  
