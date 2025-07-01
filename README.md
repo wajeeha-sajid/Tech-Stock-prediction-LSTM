@@ -2,9 +2,6 @@
 
 This project performs time-series analysis and forecasting on major tech company stocks — Apple, Google, Amazon, and Microsoft — using data from Yahoo Finance. It includes both detailed exploratory data analysis (EDA) and an LSTM-based deep learning model to forecast Apple stock prices.
 
-**Author:** Wajeeha Sajid  
-**Electrical and Computer Engineering**
-
 ---
 
 ## 📊 Overview
