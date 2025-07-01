@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 Wajeeha Sajid
 Electrical and Computer Engineering
 [GitHub Profile](https://github.com/wajeeha-sajid)
