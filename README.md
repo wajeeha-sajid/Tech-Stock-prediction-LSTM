@@ -2,7 +2,7 @@
 
 This project performs time-series analysis and forecasting on major tech company stocks — Apple, Google, Amazon, and Microsoft — using data from Yahoo Finance. It includes both detailed exploratory data analysis (EDA) and an LSTM-based deep learning model to forecast Apple stock prices.
 
----
+
 
 ## 📊 Overview
 
@@ -12,7 +12,7 @@ This project performs time-series analysis and forecasting on major tech company
 - Build and train an LSTM model to predict closing prices  
 - Evaluate model performance using RMSE
 
----
+
 
 ## 📁 Files Included
 
@@ -20,7 +20,7 @@ This project performs time-series analysis and forecasting on major tech company
 - `requirements.txt` — All required libraries  
 
 
----
+
 
 ## 🔍 Key Features
 
@@ -30,7 +30,7 @@ This project performs time-series analysis and forecasting on major tech company
 - 🧪 Evaluation with RMSE metric  
 - 🧰 Uses `yfinance`, `pandas_datareader`, and `TensorFlow/Keras`
 
----
+
 
 ## 🧠 Results
 
@@ -38,7 +38,7 @@ This project performs time-series analysis and forecasting on major tech company
 - Achieved RMSE: ~`your_value_here`  
 - Plotted actual vs. predicted prices
 
----
+
 
 ## 📦 Data Source
 
@@ -46,15 +46,12 @@ This project performs time-series analysis and forecasting on major tech company
 - Live data pulled directly in the notebook using:  
   `yfinance.download(['AAPL', 'GOOG', 'MSFT', 'AMZN'], start, end)`
 
----
+
 
 ## 🧰 Installation
 
 ```bash
 pip install -r requirements.txt
-
----
-
 
 
 ## 👩‍💻 Author
