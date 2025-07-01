@@ -50,11 +50,6 @@ This project performs time-series analysis and forecasting on major tech company
 
 
 
-
-
-
-
-
 ## 👩‍💻 Author
 
 **Wajeeha Sajid**  
